@@ -1,5 +1,4 @@
-# AIML-LAB
-AI and Machine Learning Lab Programs
+
 Enter the element to search using DFS: 20
 Element found in BST using DFS.
 
