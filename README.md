@@ -33,6 +33,16 @@ Steps to reach goal:
 -----
 Total steps: 1
 
+program 3 output:
+
+Linear Regression:
+MSE: 442.24
+R² : 0.9278
+Polynomial Regression (degree = 2):
+MSE: 49.74
+R² : 0.9919
+
+
 
 
 
